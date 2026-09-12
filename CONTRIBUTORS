@@ -1,0 +1,28 @@
+# Contributors & Research Lineage
+
+Portable Trust is the result of a research lineage built through
+experiments, communities, hackathons, institutions and open-source
+projects.
+
+Authorship of this repository does not erase the authorship of the
+people who contributed to the experiments that made this research
+possible.
+
+Contributions may include:
+
+- research
+- software
+- design
+- cryptography
+- protocols
+- governance
+- field research
+- artwork
+- institutional knowledge
+- mentoring
+- testing
+- infrastructure
+
+Each experiment should preserve:
+
+Contributor → Contribution → Experiment → Repository → License → Date
